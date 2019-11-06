@@ -7,8 +7,13 @@ AOPAspects
 3.通过AspectStoreManager实现本地plist缓存
 
 4.Aspectst主要使用场景：
+
 监控统计用户进入此界面的时长，频率等信息
+
 页面访问次数
+
 监控按钮点击事件，传递参数
+
 监控手势点击事件，传递参数
+
 监控tableView Cell的点击事件
